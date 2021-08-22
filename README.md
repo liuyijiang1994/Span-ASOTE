@@ -1,4 +1,4 @@
-This project optimizes [Span-ASTE](https://github.com/chiayewken/Span-ASTE) for [ASOTE](https://github.com/l294265421/ASOTE) task to support sentences without any relation.
+This project optimizes [Span-ASTE](https://github.com/chiayewken/Span-ASTE) for [ASOTE](https://github.com/l294265421/ASOTE) task to support sentences without any relation but entities.
 
 Reference:
 
